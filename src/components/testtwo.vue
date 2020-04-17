@@ -1,7 +1,9 @@
 <template>
     <div>
         <el-table :data="tableDataX"  border style="width: 50%">
-            <el-table-column prop="date" label="" v-for="(item,index) in tableDataY" :key="index"></el-table-column>
+            <el-table-column prop="date" label="" v-for="(item,index) in tableDataY" :key="index">
+                <el-input size="small"></el-input>
+            </el-table-column>
         </el-table>
         <div>
             <input type="text" v-model="valueY" ><label for="">列数</label>
