@@ -52,4 +52,7 @@ export default {
 </script>
 <style scoped>
 
+.el-table__empty-block{
+    min-height: 0px !important;
+}
 </style>

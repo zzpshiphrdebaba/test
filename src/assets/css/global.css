@@ -18,3 +18,7 @@ html,body,#app{
 /* .el-table--striped .el-table__body tr.el-table__row--striped td {
     background-color: #e7f4f1;
 } */
+.el-table__empty-block{
+    min-height: 0px !important;
+    height: 0px !important;
+}
