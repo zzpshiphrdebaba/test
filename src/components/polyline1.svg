@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="10000px" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<!-- <polyline points="0,0 0,20 20,20 20,40 40,40 40,60"
+style="fill:white;stroke:red;stroke-width:2"/> -->
+<polyline points="0,150 200,150 200,0 400,0 "
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="500,150 700,150 700,0 900,0 "
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="1000,150 1200,150 1200,0 1400,0 "
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="0,350 50,350 350,200 400,200 "
+style="fill:white;stroke:red;stroke-width:2"/>
+
+
+
+<polyline points="1000,350 1050,350 1350,200 1400,200 "
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="0,600 400,600 400,450"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="500,600 900,600 900,450"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="1000,600 1400,600 1400,450"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="0,800 0,650 400,650"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="500,800 500,650 900,650"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="1000,800 1000,650 1400,650"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="0,1000 400,1000 400,850 350,850"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="500,1000 900,1000 900,850 850,850"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="1000,1000 1400,1000 1400,850 1350,850"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="50,1200 0,1200 0,1050 400,1050"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="550,1200 500,1200 500,1050 900,1050"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="1050,1200 1000,1200 1000,1050 1400,1050"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="0,1350 0,1250 400,1250 400,1300"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="500,1350 500,1250 900,1250 900,1300"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="1000,1350 1000,1250 1400,1250 1400,1300"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="0,1500 0,1550 400,1550 400,1450"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="500,1500 500,1550 900,1550 900,1450"
+style="fill:white;stroke:red;stroke-width:2"/>
+
+<polyline points="1000,1500 1000,1550 1400,1550 1400,1450"
+style="fill:white;stroke:red;stroke-width:2"/>
+</svg>
