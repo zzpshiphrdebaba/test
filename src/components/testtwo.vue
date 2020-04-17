@@ -30,11 +30,11 @@ export default {
                 this.tableDataX.push(this.table)
                 console.log(this.valueX)
             }
-            // this.tableDataY = []
-            // for(var i=0;i<this.valueY;i++){
-            //     this.tableDataX.push(this.table)
-            //     console.log(this.valueY)
-            // }
+            this.tableDataY = []
+            for(var i=0;i<this.valueY;i++){
+                this.tableDataY.push(this.table)
+                console.log(this.valueY)
+            }
             // console.log(this.tableDataX)
             // let valueX = this.valueX
             // let valueY = this.valueY
